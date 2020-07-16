@@ -1,10 +1,10 @@
 export const FirebaseConfig = {
-  apiKey: "AIzaSyCQCPsRqngva_WtPQmQTDOe0QgfalV-cMo",
-    authDomain: "iber-7e0a0.firebaseapp.com",
-    databaseURL: "https://iber-7e0a0.firebaseio.com",
-    projectId: "iber-7e0a0",
-    storageBucket: "iber-7e0a0.appspot.com",
-    messagingSenderId: "806872947427",
-    appId: "1:806872947427:web:5dd98bd584bccf4ee443d6",
-    measurementId: "G-TTDNEGXMJV"
-  };
+  apiKey: "AIzaSyD5kdg5fengTR_pGp0lPxO040QYd3szxSk",
+    authDomain: "iberapp-266d8.firebaseapp.com",
+    databaseURL: "https://iberapp-266d8.firebaseio.com",
+    projectId: "iberapp-266d8",
+    storageBucket: "iberapp-266d8.appspot.com",
+    messagingSenderId: "992459633283",
+    appId: "1:992459633283:web:b8938cd23caee48b2c21b6",
+    measurementId: "G-LDN6XN7BJH"
+};
