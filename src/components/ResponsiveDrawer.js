@@ -72,7 +72,7 @@ function ResponsiveDrawer(props) {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap>
-            IBER ADMIN PANEL
+            SAFE BYKEE ADMIN PANEL
           </Typography>
         </Toolbar>
       </AppBar>
